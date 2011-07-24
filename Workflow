@@ -1,0 +1,60 @@
+Vor dem Einsatz:
+    
+    Pizzerien besuchen, Lage klären.
+
+    Produkte der Pizzerien einpflegen, Speisekarte erstellen.
+
+    Server/Rack aufbauen
+        - Anschluss an das interne Netzwerk 
+        - Prüfen der Hardware (Drucker, Switch, etc)
+        - Sicherstellung der Stromversorgung
+
+    Helfer einweisen
+        - Funktionsweise erläutern
+        - Zeitplanung/Schichtplan erstellen
+
+    Möglichkeit zum Entsorgen von Müll organisieren
+        - Hauptsächlich Papiermüll
+
+    Einmalbesteck/Plastikbesteck organisieren
+
+
+Workflow während des Einsatzes:
+
+    Kundensicht:
+        
+        Vorbestellungen:
+            - Pizzaproxy-Server im Eventnetz oder online ansurfen
+            - Vorbestellung ausfüllen
+            - an der Pizzaproxy Kasse unter Angabe der Bestellnummer 
+              die Bestellung bezahlen.
+            - Wenn die Bestellung ausgerufen wird die Bestellung abholen
+        Normale Bestellung:
+            - Pizzaproxy Kasse aufsuchen
+            - Bestellung aufgeben und bezahlen
+            - Wenn die Bestellung ausgerufen wird die Bestellung abholen
+
+    Helfersicht:
+        
+        1-2 Kassenhelfer:
+            - Bestellungen/Vorbestellungen annehmen
+            - Geld entgegen nehmen, Bon den Kunden überreichen
+
+        2 Bestellhelfer:
+            - Zusammengefasste, freigeschaltete Bestellungen vom Bon ablesen
+            - Bestellungen an Pizzerien kommunizieren (per Telefon)
+            - Bestellungen von Pizzerien annehmen, mit Bestellliste abgleiche
+                - fehlende Produkte anmerken
+                - Rechnung prüfen, ggf. korrigieren und bezahlen
+            - Produkte mit der Bestellnummer versehen/taggen
+            - getaggte Produkte den Verteilhelfern übergeben
+    
+        1-2 Ausgabehelfer:
+            - Bestellungen ausrufen und übergeben (nur nach Vorlage des Bons)
+            - Bestellungen auf Bestellzettel als ausgegeben markieren
+
+
+Nach dem Einsatz:
+
+    Aufräumen, abbauen, Kasse prüfen. 
+

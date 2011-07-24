@@ -1,0 +1,15 @@
+Pizzaproxy (PHP):
+    - API (JSON)
+    - Vorbestellungssystem (extra Website mit API-calls)
+    - SQL auf prepared Statements umstellen
+    - Vorbereitungen für Druck auf Server6
+
+Pizzaproxy CUI (Client User Interface, Perl oder Python)
+    - Pizzaproxy Admin-Oberfläche als Konsolenapplikation
+    - Kommunikation über JSON-API
+
+Pizzaproxy Website (pizzaproxy.org):
+    - Design    -> Website
+                -> Logo
+
+
