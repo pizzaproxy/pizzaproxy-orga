@@ -1,0 +1,31 @@
+Margherita klein	300	230
+Hawaii klein		400	360
+Schinken klein		400	310
+Thunfisch klein		400	360
+Salami klein		400	310
+Bolognese klein		400	310
+Spinat klein		400	370
+Champignons klein	400	290
+Margherita groß		500	380
+Hawaii groß		600	540
+Schinken groß		550	480
+Thunfisch groß		600	540
+Salami groß		600	480
+Bolognese groß		550	480
+Spinat groß		550	570
+Champignons groß	550	460
+Spaghetti Napoli	500	480
+Spaghetti Bolognese	550	500
+Spaghetti Carbonara	650	610
+Lasagne			700	660
+gem. Salat o.D.		500	490
+Salat Thunfisch. o.D.	600	520
+Salat Schinken o.D.	600	560
+gem. Salat Cocktaild.	500	490
+Salat Thunfisch. Cd.	600	520
+Salat Schinken Cd.	600	560
+gem. Salat Jd.		500	490
+Salat Thunfisch Jd.	600	520
+Salat Schinken Jd.	600	560
+Pizzabrötchen		250	220
+
