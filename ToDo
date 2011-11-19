@@ -3,6 +3,11 @@ Pizzaproxy (PHP):
     - Vorbestellungssystem (extra Website mit API-calls)
     - SQL auf prepared Statements umstellen
     - Vorbereitungen für Druck auf Server
+    - Using config array for every function with more than one arg / wip @ michael
+    - remove key_exists
+    - refactor some functions
+    - use switch instead of long if constructs
+    - don't request 10 times the same post in one file
 
 Pizzaproxy CUI (Client User Interface, Perl oder Python)
     - Pizzaproxy Admin-Oberfläche als Konsolenapplikation
